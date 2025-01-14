@@ -1,0 +1,8 @@
+[app]
+name = "DHL Tracking Integration"
+
+[[extensions]]
+type = "ui_extension"
+name = "dhl-tracking-extension"
+handle = "dhl-tracking-extension"
+target = "admin"
